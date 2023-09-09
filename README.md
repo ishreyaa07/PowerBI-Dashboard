@@ -38,5 +38,5 @@ Save your Power BI file with a meaningful name. You can also publish your report
 
 Here is an E-Commerce Dashboard created via POwerBI - The Dashboard represents the Sales acounted all over Indian States for an e-commerce store. We also pus filters to monitor the stats with the Quater and State filter.
 
-<img width="601" alt="sales dashboard" src="https://github.com/ishreyaa07/PowerBI-Dashboard/assets/98052441/60a25b1c-e4f6-4ee8-bf9e-66745980014d">
+<img width="602" alt="Screenshot 2023-09-09 173520" src="https://github.com/ishreyaa07/PowerBI-Dashboard/assets/98052441/c95acffe-80d1-4a5f-911e-343e61fcb111">
 
